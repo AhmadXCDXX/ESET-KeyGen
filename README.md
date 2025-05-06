@@ -13,7 +13,7 @@
 
 # ESET-KeyGen
 ESET-KeyGen - Trial-Key & Account generator for ESET Products
-m.qasim2172@gmail.com	Mkhan6969
+https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/RootlessRepositories.txt
 
 H8BTRS17KK
 YSKTTWM3M5
